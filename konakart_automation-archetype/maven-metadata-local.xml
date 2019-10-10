@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.atmecs.konakart</groupId>
+  <artifactId>konakart_automation-archetype</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191010094604</lastUpdated>
+  </versioning>
+</metadata>
